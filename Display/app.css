@@ -1,0 +1,12 @@
+h1{
+    background-color: beige;
+    border: 1px solid black;
+    display: inline;
+}
+span{
+    background-color: aquamarine;
+    border: 1px solid black;
+    display: block;
+    width: 200px;
+    padding: 100px;
+}
